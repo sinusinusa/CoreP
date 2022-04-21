@@ -8,5 +8,9 @@ namespace CorePartnersTraining.Business.Entities
 {
   internal class ErrorClass
   {
+    public static int GetCheck()
+    {
+      return 67;
+    }
   }
 }

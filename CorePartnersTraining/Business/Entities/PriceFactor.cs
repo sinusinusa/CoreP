@@ -7,7 +7,8 @@ using System.Threading.Tasks;
 namespace CorePartnersTraining.Business.Entities
 {
 //Comment
-  internal class PriceFactor
+  internal class PriceFact
   {
+    int? b = ErrorClass.GetCheck();
   }
 }
