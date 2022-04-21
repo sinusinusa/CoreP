@@ -10,6 +10,15 @@ namespace CorePartnersTraining.Business.Entities
   internal class PriceFactor
   {
     int? GetV = null;
+
+    PriceFactor()
+    {
+      Console.WriteLine("again");
+    }
+    public float Omega()
+    {
+      return 0.05F;
+    }
   }
 
   internal class PriceFact
