@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CorePartnersTraining.Business.Entities
 {
-//SomeComments
+//Comment
   internal class PriceFactor
   {
   }
