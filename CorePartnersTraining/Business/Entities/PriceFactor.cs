@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CorePartnersTraining.Business.Entities
 {
-//Comment
+//CommentHJ
   internal class PriceFact
   {
     int? b = ErrorClass.GetCheck();
