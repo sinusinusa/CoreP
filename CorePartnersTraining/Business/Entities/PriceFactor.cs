@@ -14,9 +14,11 @@ namespace CorePartnersTraining.Business.Entities
     PriceFactor()
     {
       Console.WriteLine("again");
+      Console.WriteLine("wat");
     }
     public float Omega()
     {
+      return GetV == null ? 0 : GetV.Value;
       return 0.05F;
     }
   }
